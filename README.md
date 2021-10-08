@@ -24,3 +24,12 @@ Here are some ideas to get you started:
 - SCSS
 - HTML/CSS
 
+## Currently Project
+### SSACOIN
+- Blockchain Project
+
+### Helngers
+- Health SNS Project
+
+### MoneyMarket
+- Machine Learning Project
