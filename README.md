@@ -1,5 +1,3 @@
-### 🧢 SSAFY 5th
-#### 🐤 Coding Beginner
 <!--
 **toproot/toproot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to Toproot Github!
+
+## 🌱 I’m currently learning SSAFY 5th
+## 📫 How to reach me: toproot7913@gmail.com
+
+## 🧑🏻‍💻 Teck Stack (FrontEnd)
+- React.js
+- Vue.js
+- SCSS
+- HTML/CSS
+
