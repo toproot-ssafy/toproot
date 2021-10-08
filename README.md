@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - SCSS
 - HTML/CSS
 
-## Currently Project
+## 📚 Currently Project
 ### SSACOIN
 - Blockchain Project
 
