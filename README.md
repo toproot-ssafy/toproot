@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 ## 🧑🏻‍💻 Teck Stack (FrontEnd)
 - React.js
 - Vue.js
+- JavaScript
 - SCSS
 - HTML/CSS
+- Ptyhon
+- Django
 
 ## 📚 Currently Project
 ### SSACOIN
