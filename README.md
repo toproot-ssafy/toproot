@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - SCSS
 - HTML/CSS
 - Ptyhon
-- Django
+- Django 
 
 ## 📚 Currently Project
 ### SSACOIN
