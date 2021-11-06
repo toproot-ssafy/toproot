@@ -25,9 +25,15 @@ Here are some ideas to get you started:
 - SCSS
 - HTML/CSS
 - Ptyhon
-- Django 
+- Django
+- C#
+- Unity
 
 ## 📚 Currently Project
+
+### Plogging Island
+- Unity Metabus Project
+- 
 ### SSACOIN
 - Blockchain Project
 
@@ -36,6 +42,3 @@ Here are some ideas to get you started:
 
 ### MoneyMarket
 - Machine Learning Project 
-
-### Plogging Island
-- Unity Metabus Project
