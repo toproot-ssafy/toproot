@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Plogging Island
 - Unity Metabus Project
-- 
+
 ### SSACOIN
 - Blockchain Project
 
