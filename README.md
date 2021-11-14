@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 - Health SNS Project
 
 ### MoneyMarket
-- Machine Learning Project 
+- Machine Learning Project  
