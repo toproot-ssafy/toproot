@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Vue.js
 - JavaScript
 - SCSS
-- HTML/CSS
+- HTML/CSS 
 - Ptyhon
 - Django
 - C#
