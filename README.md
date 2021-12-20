@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Welcome to Toproot Github!
 
-## 🌱 I’m currently learning SSAFY 5th
+## 🌱 I’m currently learning SSAFY 5th.
 ## 📫 How to reach me: toproot7913@gmail.com
 
 ## 🧑🏻‍💻 Teck Stack (FrontEnd)
