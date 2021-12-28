@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 🧑🏻‍💻 Teck Stack (FrontEnd)
 - React.js
 - Vue.js
-- JavaScript
+- JavaScript 
 - SCSS
 - HTML/CSS 
 - Ptyhon
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 ### MoneyMarket 
 - Machine Learning Project  
 
-
+ 
 
