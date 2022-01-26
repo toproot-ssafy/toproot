@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome to Toproot Github!
 
 ## 🌱 I’m currently working in ATK.
-## 📫 How to reach me: toproot7913@gmail.com.
+## 📫 How to reach me: toproot7913@gmail.com
 
 ## 🧑🏻‍💻 Teck Stack (FrontEnd)
 - React.js
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 - Health SNS Project
 
 ### MoneyMarket 
-- Machine Learning Project 
+- Machine Learning Project
