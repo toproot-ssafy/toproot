@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently working in ATK.
 ## 📫 How to reach me: toproot7913@gmail.com
 
-## 🧑🏻‍💻 Teck Stack (FrontEnd)
+## 🧑🏻‍💻 Teck Stack
 - React.js
 - Vue.js
 - JavaScript 
