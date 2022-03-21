@@ -22,22 +22,9 @@ Here are some ideas to get you started:
 - Vue.js
 - JavaScript 
 - SCSS
-- HTML/CSS 
-- Ptyhon
+- HTML/CSS
 - Django
+- JAVA 
+- Ptyhon
 - C#
 - Unity
-
-## 📚 Currently Project
-
-### Plogging Island
-- Unity Metabus Project 
-
-### SSACOIN
-- Blockchain Project
-
-### Helngers
-- Health SNS Project
-
-### MoneyMarket 
-- Machine Learning Project
