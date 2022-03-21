@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 
 # Welcome to Toproot Github!
 ## 🌱 I’m currently working in ATK.
+> 2021
+- SSAFY 5th
+
+> 2022
+- Amkor Technology Korea - Automative SW Dev.
+
+
 ## 📫 How to reach me: toproot7913@gmail.com
 
 ## 🧑🏻‍💻 Teck Stack
